@@ -1,10 +1,7 @@
 ## React CLI
 
-[![GitHub stars](https://img.shields.io/github/stars/seAfnan/react-electron-cli)](https://github.com/seAfnan/react-electron-cli/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/seAfnan/react-electron-cli)](https://github.com/seAfnan/react-electron-cli/issues)
-[![GitHub forks](https://img.shields.io/github/forks/seAfnan/react-electron-cli)](https://github.com/seAfnan/react-electron-cli/network)
 
-This repository contains a CLI (Command-Line Interface) application developed as part of the Full-Stack Engineer recruitment challenge for Antematter.io. The application is built using React, Vite, Node.js, and Electron.
+This repository contains a CLI (Command-Line Interface) application developed as part of the Full-Stack Engineer recruitment challenge for Antematter.io. The application is built using React, NodeJs, Vite, Electron, ChakraUI and Recharts.
 
 ![React-CLI](https://imgur.com/O3rovKJ.gif)
 
