@@ -6,7 +6,7 @@
 
 This repository contains a CLI (Command-Line Interface) application developed as part of the Full-Stack Engineer recruitment challenge for Antematter.io. The application is built using React, Vite, Node.js, and Electron.
 
-![React-CLI](https://imgur.com/O3rovKJ)
+![React-CLI](https://imgur.com/O3rovKJ.gif)
 
 ## Table of Contents
 
@@ -63,3 +63,6 @@ The CLI application includes a Node.js-based API that provides functionality for
    ````
    
 **Makre sure that both API and Frontend should run at the same time on different terminals.**
+
+
+## GOOD LUCK.
