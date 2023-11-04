@@ -1,7 +1,7 @@
 ## React CLI
 
 
-This repository contains a CLI (Command-Line Interface) application developed as part of the Full-Stack Engineer recruitment challenge for Antematter.io. The application is built using React, NodeJs, Vite, Electron, ChakraUI and Recharts.
+This repository contains a CLI (Command-Line Interface) application developed as part of the Full-Stack Engineer recruitment challenge for Antematter.io. The application is built using **React, NodeJs, Vite, Electron, ChakraUI and Recharts**.
 
 ![React-CLI](https://imgur.com/O3rovKJ.gif)
 
