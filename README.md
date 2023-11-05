@@ -3,7 +3,7 @@
 
 This repository contains a CLI (Command-Line Interface) application developed as part of the Full-Stack Engineer recruitment challenge for Antematter.io. The application is built using **React, NodeJs, Vite, Electron, ChakraUI and Recharts**.
 
-![React-CLI](https://imgur.com/O3rovKJ.gif)
+![React-CLI](https://imgur.com/j5W6fmG.gif)
 
 ## Table of Contents
 
@@ -29,14 +29,11 @@ npm run dev
 ## Available Commands
 ```bash
 - help: Display a help message with information about available commands.
-
 - about: Provide information about the application or its purpose.
-
-- upload: Describe how to use the upload command, its syntax, and any required parameters.
-
-- draw chart: Explain how to use the draw chart command and what it does.
-
-- delete: Describe how to use the delete command and its functionality.
+- fetch-price [coin]: Fetch the current price of a specified cryptocurrency.
+- upload: Opens the file explorer to allow uploading csv files only.
+- draw [file] [columns]: Draws the chart of the specified columns of the file present in the draw-chart directory.
+- delete [file]: Delete the specified file from directory.
 ````
 
 ## API
